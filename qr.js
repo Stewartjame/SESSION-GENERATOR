@@ -1,5 +1,5 @@
 // get qr  code of any bot using this ....................
-//coded  by wasi
+//coded  by STEWARTXM
 
 
 const express = require("express");
@@ -17,7 +17,7 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
+❒ *STEWART-XM*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
